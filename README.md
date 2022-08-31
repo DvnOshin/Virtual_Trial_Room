@@ -18,7 +18,6 @@ When the code runs a window with buttons appears on the screen. The user can the
 
 
 Output Screen:
+![Tkinter Window](https://user-images.githubusercontent.com/61008588/187613337-54652f2d-aee1-4a86-987c-db014a43e818.png)
 
 ![Output Screen](https://user-images.githubusercontent.com/61008588/187613332-c4d398c3-64e9-44bf-a0ee-368e24c3ea38.png)
-
-![Tkinter Window](https://user-images.githubusercontent.com/61008588/187613337-54652f2d-aee1-4a86-987c-db014a43e818.png)
